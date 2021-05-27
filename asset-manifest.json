@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.73654d14.chunk.css",
-    "main.js": "/static/js/main.1df860ed.chunk.js",
-    "main.js.map": "/static/js/main.1df860ed.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.bbe24cf4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.bbe24cf4.js.map",
-    "static/css/2.e1761cbf.chunk.css": "/static/css/2.e1761cbf.chunk.css",
-    "static/js/2.9de1282e.chunk.js": "/static/js/2.9de1282e.chunk.js",
-    "static/js/2.9de1282e.chunk.js.map": "/static/js/2.9de1282e.chunk.js.map",
-    "static/js/3.98e4e470.chunk.js": "/static/js/3.98e4e470.chunk.js",
-    "static/js/3.98e4e470.chunk.js.map": "/static/js/3.98e4e470.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.e1761cbf.chunk.css.map": "/static/css/2.e1761cbf.chunk.css.map",
-    "static/css/main.73654d14.chunk.css.map": "/static/css/main.73654d14.chunk.css.map",
-    "static/js/2.9de1282e.chunk.js.LICENSE.txt": "/static/js/2.9de1282e.chunk.js.LICENSE.txt",
-    "static/media/styles.css": "/static/media/Community-tree.5e84ee5f.jpg",
-    "static/media/sp_logo.09529424.png": "/static/media/sp_logo.09529424.png"
+    "main.css": "/ssuit/static/css/main.22361bfe.chunk.css",
+    "main.js": "/ssuit/static/js/main.1e65801d.chunk.js",
+    "main.js.map": "/ssuit/static/js/main.1e65801d.chunk.js.map",
+    "runtime-main.js": "/ssuit/static/js/runtime-main.8c8c0f76.js",
+    "runtime-main.js.map": "/ssuit/static/js/runtime-main.8c8c0f76.js.map",
+    "static/css/2.e1761cbf.chunk.css": "/ssuit/static/css/2.e1761cbf.chunk.css",
+    "static/js/2.8783333d.chunk.js": "/ssuit/static/js/2.8783333d.chunk.js",
+    "static/js/2.8783333d.chunk.js.map": "/ssuit/static/js/2.8783333d.chunk.js.map",
+    "static/js/3.49bf3023.chunk.js": "/ssuit/static/js/3.49bf3023.chunk.js",
+    "static/js/3.49bf3023.chunk.js.map": "/ssuit/static/js/3.49bf3023.chunk.js.map",
+    "index.html": "/ssuit/index.html",
+    "static/css/2.e1761cbf.chunk.css.map": "/ssuit/static/css/2.e1761cbf.chunk.css.map",
+    "static/css/main.22361bfe.chunk.css.map": "/ssuit/static/css/main.22361bfe.chunk.css.map",
+    "static/js/2.8783333d.chunk.js.LICENSE.txt": "/ssuit/static/js/2.8783333d.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/ssuit/static/media/Community-tree.5e84ee5f.jpg",
+    "static/media/sp_logo.09529424.png": "/ssuit/static/media/sp_logo.09529424.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.bbe24cf4.js",
+    "static/js/runtime-main.8c8c0f76.js",
     "static/css/2.e1761cbf.chunk.css",
-    "static/js/2.9de1282e.chunk.js",
-    "static/css/main.73654d14.chunk.css",
-    "static/js/main.1df860ed.chunk.js"
+    "static/js/2.8783333d.chunk.js",
+    "static/css/main.22361bfe.chunk.css",
+    "static/js/main.1e65801d.chunk.js"
   ]
 }
